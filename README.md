@@ -9,6 +9,8 @@ React Movie App: https://tajuddinmolla.github.io/movie-app/
 <br/>
 React Burger-Builder App: https://tajuddinmolla.github.io/burger-builder/
 <br/>
+Next Event App: https://next-event-app-c2a9mkybm-tajuddinmolla.vercel.app/
+<br/>
 React RoboHash App: https://tajuddinmolla.github.io/react-first-robohash-app/ 
 <!---
 TajuddinMolla/TajuddinMolla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
